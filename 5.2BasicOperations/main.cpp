@@ -3,4 +3,9 @@
 
 
 int main(){
+    /*
+
+    / = integer division (chops fractional part)
+    % = modulo
+    */
 }
