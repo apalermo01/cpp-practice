@@ -88,7 +88,7 @@ int main(){
 // base_type[][depth][depth]
 
 // ex:
-void procedure (int myarray[][3][4])
+// void procedure (int myarray[][3][4])
 // first [] are empty, next 2 specify size dimensions
 // in a sense, passing an array as an argument always looses a dimension
 
